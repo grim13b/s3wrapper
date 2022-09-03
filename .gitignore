@@ -1,2 +1,3 @@
-.venv
-!localstack/.gitkeep
+/.venv
+/localstack/*
+!/localstack/.gitkeep
